@@ -1,2 +1,2 @@
 # RPiWatch
-Un monitor ligero y eficiente para tu Raspberry Pi. Obtén información en tiempo real sobre el uso de CPU, memoria, temperatura y más, todo desde una interfaz fácil de usar y de configurar. Mantén el rendimiento de tu Raspberry Pi bajo control con RPiWatch, ¡tu compañero perfecto para monitorear el sistema!
+RPiWatch is a lightweight and efficient monitor for your Raspberry Pi. It provides real-time insights into CPU, memory, disk usage, and system temperature, all accessible through an intuitive web dashboard. Stay on top of your Raspberry Pi's performance with RPiWatch, designed for ease of use and powerful monitoring capabilities.
